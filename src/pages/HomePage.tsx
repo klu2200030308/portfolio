@@ -188,7 +188,7 @@ export const HomePage: React.FC = () => {
         <div className="container mx-auto px-6">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
             {[
-              { number: '8.5', label: 'CGPA', suffix: '/10' },
+              { number: '9.2', label: 'CGPA', suffix: '/10' },
               { number: '5+', label: 'Certifications', suffix: '' },
               { number: '2+', label: 'Years Experience', suffix: '' },
               { number: '10+', label: 'Technologies', suffix: '' },
